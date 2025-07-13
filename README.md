@@ -12,6 +12,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
+  - [Author](#author)
 
 
 ### Links
@@ -72,3 +73,9 @@ While working on the project, I learned the basic principles of HTML and CSS lay
 
 - [MDN](https://developer.mozilla.org/en-US/) - It helped me to familiarize myself with the theory HTML, CSS and other useful tools.
 - [learningtogetherua](https://www.youtube.com/@itmentor) - The lecturer from whom I took a course on the theory and practice of HTML, CSS. I'm still learning - mastering JS.
+
+## Author
+
+- Frontend Mentor - [Oleksandra Varbanska](https://github.com/OleksandraVarbanska)
+- Telegram - [Oleksandra Varbanska](https://t.me/nemin_na_ari)
+
