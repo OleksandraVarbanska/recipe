@@ -24,34 +24,45 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Built with
 
 - Semantic HTML5 markup- `index.html`
-- This project uses CSS for styling. The main styles file is `styles.css`.
+- The main styles file is `styles.css`.
 - The layout is implemented using Flexbox
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+While working on the project, I learned the basic principles of HTML and CSS layout. <br></br>The main focus was on creating an adaptive layout using Flexbox.
 
-To see how you can add code snippets, see below:
+**Key skills:**
 
-```html
-<h1>Some HTML code I'm proud of</h1>
+***HTML: semantic markup, content structuring.***
+ 
+  ```html
+ <div class="tabl flx">
+          <ul>
+            <div class="value flx">
+              <li>Calories</li>
+              <li class="outfit-bold">277kcal</li>
+            </div>
+            <hr />
 ```
+            
+***CSS: applying styles, working with colors, fonts, indents.***
+
 ```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
+.nutrition div.tabl ul hr {
+  width: 656px;
+  border: 1px solid #e3ddd7;
 }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+***Flexbox: creating adaptive layouts, element alignment, space management.***
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+```css
+.flx {
+  display: flex;
+  flex-direction: column;
+}
+```
 
 ### Continued development
 
